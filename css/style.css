@@ -1,0 +1,26 @@
+body{
+    background: rgba(112, 112, 112, 0.541);
+}
+h1{
+    text-align: center;
+    color: rgb(14, 48, 48);
+}
+
+/*Class*/
+.subsection p{
+    font-family:sans-serif;
+    color: rgb(65, 31, 31);
+}
+.subsection h3{
+    color: rgb(32, 6, 6);
+}
+/*Id*/
+#secction1 h2{
+    color: rgb(123, 14, 14);
+}
+#secction2 h2{
+    color: rgb(0, 156, 184);
+}
+#secction3 h2{
+    color: rgb(14, 0, 205);
+}
